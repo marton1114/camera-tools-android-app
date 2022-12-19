@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">PhotoTools</string>
+
+    <string name="apptitle_textview">PhotoTools</string>
+
+    <string name="basictools_textview">Általános</string>
+    <string name="exposureAppTextView">Autómatizáló</string>
+    <string name="waterMeterAppTextView">Vízmérték</string>
+    <string name="lightsAppTextView">Fények</string>
+    <string name="sunAndMoonAppTextView">Nap és hold</string>
+    <string name="timeLapseAppTextView">Time-lapse</string>
+    <string name="timerAppTextView">Értesítő</string>
+
+    <string name="starphotography_textview">Csillagfotózás</string>
+    <string name="starMovingAppTextView">Csillagmozgás</string>
+    <string name="lightPollutionAppTextView">Fényszennyezettség</string>
+    <string name="starTrailsAppTextView">Csillagösvények</string>
+
+
+    <string name="exposureApp_ISOLabels">ISO</string>
+    <string name="exposureApp_measureButton">Mérés</string>
+    <string name="exposureApp_shutterLabels">Záridő</string>
+    <string name="exposureApp_apertureLabels">Rekesz</string>
+    <string name="exposureApp_DegreeLabel">Fok</string>
+    <string name="exposureApp_defaultDegree">0°</string>
+    <string name="exposureApp_RadioGroupLabel">Kiszámítandó paraméter</string>
+    <string name="noSensorMessage">A telefonban nem található fényérzékelő szenzor</string>
+
+    <string name="starMovingApp_cropFactorTextView">Szenzor mérete</string>
+    <string name="starMovingApp_maxTimeTextView">Maximum idő</string>
+    <string name="starMovingApp_focalLengthTextView">Látószög</string>
+
+    <string name="lightPollutionApp_defaultLocation">default location</string>
+    <string name="lightPollutionApp_locationLabel">Helyszín</string>
+    <string name="lightPollutionApp_dateLabel">Időpont</string>
+
+    <string name="timerApp_dateRadioButton">Dátum</string>
+    <string name="timerApp_astronomicalRadioButton">Csillagászati esemény</string>
+    <string name="timerApp_dateLabel">Dátum</string>
+    <string name="timerApp_timeLabel">Óra</string>
+    <string name="timerApp_astronomicalSpinnerLabel">Fontosabb csillagászati események\n ma</string>
+    <string name="timerApp_OK">OK</string>
+    <string name="timerApp_radioGroupLabel">Értesítés típusa</string>
+    <string name="timerApp_lengthOfStarTrailsLabel">Csillagösvények hossza</string>
+    <string name="timerApp_defaultDegree">0°</string>
+    <string name="timerApp_timeNeeded">Szükséges idő</string>
+
+    <string name="sunAndMoonApp_defaultLocation">default location</string>
+    <string name="sunAndMoonApp_goldenSetLabel">Arany alkonyat</string>
+    <string name="sunAndMoonApp_timeLabel">Időpont</string>
+    <string name="sunAndMoonApp_sunLabel">Nap</string>
+    <string name="sunAndMoonApp_astronomicalRise">Csillagászati hajnal</string>
+    <string name="sunAndMoonApp_nauticalRise">Tengerészeti hajnal</string>
+    <string name="sunAndMoonApp_blueRise">Kék hajnal</string>
+    <string name="sunAndMoonApp_sunRiseLabel">Napkelte</string>
+    <string name="sunAndMoonApp_goldenRiseLabel">Arany hajnal</string>
+    <string name="sunAndMoonApp_sunSetLabel">Naplemente</string>
+    <string name="sunAndMoonApp_blueSetLabel">Kék alkonyat</string>
+    <string name="sunAndMoonApp_nauticalSetLabel">Tengerészeti alkonyat</string>
+    <string name="sunAndMoonApp_astronomicalSetLabel">Csillagászati alkonyat</string>
+    <string name="sunAndMoonApp_moonLabel">Hold</string>
+    <string name="sunAndMoonApp_moonRiseLabel">Holdkelte</string>
+    <string name="sunAndMoonApp_moonSetLabel">Holdnyugta</string>
+    <string name="sunAndMoonApp_locationLabel">Helyszín</string>
+
+    <string name="timeLapseApp_numberOfPictures">Fotók száma:</string>
+    <string name="timeLapseApp_defaultNumberOfPictures">200</string>
+    <string name="timeLapseApp_memoryNeeded">Memóriaigény:</string>
+    <string name="timeLapseApp_defaultMemoryNeeded">1000 MB</string>
+    <string name="timeLapseApp_videoLength">Videóhossz</string>
+    <string name="timeLapseApp_defaultVideoLength">0h 0m 20s</string>
+    <string name="timeLapseApp_FPS">FPS</string>
+    <string name="timeLapseApp_defaultFPS">10 FPS</string>
+    <string name="timeLapseApp_sizeOfPictures">Képek mérete (MB)</string>
+    <string name="timeLapseApp_defaultSizeOfPictures">5.0 MB</string>
+    <string name="timeLapseApp_results">Eredmények</string>
+    <string name="lightPollutionApp_showNegativeValuesLabel">Negatív értékek</string>
+
+    <string name="myCoordPicker_x">x:</string>
+    <string name="myCoordPicker_y">y:</string>
+    <string name="myCoordPicker_OK">OK</string>
+    <string name="myCoordPicker_coordinatesTitle">Koordináta</string>
+    <string name="myCoordPicke_actualPositionLabel">Aktuális pozíció</string>
+
+    <string name="myFPSPicker_FPS">FPS</string>
+    <string name="myFPSPicker_OK">OK</string>
+    <string name="myFPSPicker_title">Frames per second</string>
+    <string name="myMBPicker_MB">MB</string>
+    <string name="myMBPicker_OK">OK</string>
+    <string name="myMBPicker_title">A készítendő képek mérete</string>
+
+    <string name="myTimePicker_h">ó</string>
+    <string name="myTimePicker_m">p</string>
+    <string name="myTimePicker_s">mp</string>
+    <string name="myTimePicker_OK">OK</string>
+    <string name="myTimePicker_title">Időtartam</string>
+
+    <string name="noGPSMessage">Úgy tűnik ki van kapcsolva a GPS elérésed, szeretnld bekapcsolni?</string>
+    <string name="noGPSMessageYes">Igen</string>
+    <string name="noGPSMessageNo">Nem</string>
+
+    <string name="toastMessage">Ez az időpont már elmúlt</string>
+    <string-array name="spinner_elements">
+        <item>Csillagászati hajnal</item>
+        <item>Csillagászati alkonyat</item>
+        <item>Tengerészeti hajnal</item>
+        <item>Tengerészeti alkonyat</item>
+        <item>Kék hajnal</item>
+        <item>Kék alkonyat</item>
+        <item>Arany hajnal</item>
+        <item>Arany alkonyat</item>
+        <item>Napkelte</item>
+        <item>Naplemente</item>
+
+        <item>Holdkelte</item>
+        <item>Holdnyugta</item>
+    </string-array>
+</resources>

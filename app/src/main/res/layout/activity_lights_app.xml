@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".lightsapp.LightsAppActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/roundcorner"
+        android:backgroundTint="#EBF6F6F6"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/circlecornerforbuttons"
+            android:foreground="@drawable/ic_baseline_lightbulb_24"
+            android:foregroundGravity="center"
+            android:onClick="onBrightnessButtonClick" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/circlecornerforbuttons"
+            android:foreground="@drawable/ic_baseline_color_lens_24"
+            android:foregroundGravity="center"
+            android:onClick="onColorPickerButtonClick" />
+
+        <Button
+            android:id="@+id/torchButton"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/circlecornerforbuttons"
+            android:foreground="@drawable/ic_baseline_flashlight_on_24"
+            android:foregroundGravity="center|center_horizontal"
+            android:onClick="onTorchButtonClick" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
