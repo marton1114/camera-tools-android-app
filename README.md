@@ -8,6 +8,7 @@ Az én ötletem egy fotósoknak hasznos eszközökből álló alkalmazás volt, 
 Az alkalmazásban különféle kalkulátorok mellett található záridő mérő, különböző színekben állítható fényforrás, a nap és a hold állásából
 kiszámolt aktuális fényszennyezettség grafikon és még sok más.
 
+
 ## Képek
 
 <p float="left">
