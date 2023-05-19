@@ -10,10 +10,10 @@ kiszámolt aktuális fényszennyezettség grafikon és még sok más.
 
 ## Képek
 
-<p float="center">
-  <img src="https://raw.githubusercontent.com/marton1114/Android_programming_project2/main/menu.png" width="25%" height="25%"> 
-  <img src="https://raw.githubusercontent.com/marton1114/Android_programming_project2/main/lightpol.png" width="25%" height="25%">
-  <img src="https://raw.githubusercontent.com/marton1114/Android_programming_project2/main/sunandmoonstates.png" width="25%" height="25%"> 
-  <img src="https://raw.githubusercontent.com/marton1114/Android_programming_project2/main/startrails.png" width="25%" height="25%"> 
-  <img src="https://raw.githubusercontent.com/marton1114/Android_programming_project2/main/color.png" width="25%" height="25%"> 
+<p float="left">
+  <img src="https://raw.githubusercontent.com/marton1114/Android_programming_project2/main/menu.png" width="20%" height="20%"> 
+  <img src="https://raw.githubusercontent.com/marton1114/Android_programming_project2/main/lightpol.png" width="20%" height="20%">
+  <img src="https://raw.githubusercontent.com/marton1114/Android_programming_project2/main/sunandmoonstates.png" width="20%" height="20%"> 
+  <img src="https://raw.githubusercontent.com/marton1114/Android_programming_project2/main/startrails.png" width="20%" height="20%"> 
+  <img src="https://raw.githubusercontent.com/marton1114/Android_programming_project2/main/color.png" width="20%" height="20%"> 
 </p>
